@@ -45,6 +45,96 @@ Entonces, ¿estás listo para explorar el mundo de Photoshop y descubrir lo que 
 
 🎨 **¡Crea, transforma e inspírate!**
 
+
+### Guia de instalacion de photoshop
+
+##### Opción 1: Licencia Regular (Precio Completo)
+
+1. **Compra una suscripción**  
+   - Ve a la página oficial de Adobe: [Adobe Photoshop](https://www.adobe.com/mx/products/photoshop.html).
+   - Crea una cuenta Adobe o inicia sesión.
+   - Haz clic en “Comprar” o “Prueba gratuita”.
+   - Elige el plan de “Aplicación individual” o el paquete “Creative Cloud” según tus necesidades.
+   - Ingresa tus datos de pago y completa la compra.
+
+2. **Descarga e instala Photoshop**  
+   - Una vez realizada la compra, descarga el instalador desde tu cuenta Adobe.
+   - Ejecuta el archivo descargado y sigue las instrucciones en pantalla.
+   - Inicia sesión con tu cuenta Adobe para activar la licencia.
+
+3. **Actualiza y comienza a usar Photoshop**  
+   - Abre la aplicación Creative Cloud para verificar actualizaciones.
+   - Inicia Photoshop y comienza a crear.
+
+---
+
+##### Opción 2: Licencia para Estudiantes y Profesores
+
+1. **Verifica tu elegibilidad**  
+   - Accede a la sección de [Descuentos para estudiantes y profesores](https://www.adobe.com/mx/creativecloud/buy/students.html).
+   - Revisa los requisitos (correo institucional, comprobante de inscripción, etc.).
+
+2. **Compra el plan educativo**  
+   - Selecciona el plan “Creative Cloud para estudiantes y profesores” (incluye Photoshop y otras apps).
+   - Haz clic en “Comprar ahora”.
+   - Completa el proceso de verificación de estudiante/profesor.
+   - Ingresa tus datos de pago y finaliza la compra (el precio es significativamente menor que el regular).
+
+3. **Descarga e instala Photoshop**  
+   - Descarga el instalador desde tu cuenta Adobe.
+   - Instala y activa Photoshop iniciando sesión con tu cuenta verificada.
+
+4. **Disfruta de todas las aplicaciones de Creative Cloud**  
+   - El plan educativo incluye acceso a todas las apps de Adobe.
+
+
+[![¿Qué es un mapa de bits?](https://i.ytimg.com/vi/Dz0lkNRCbB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dz0lkNRCbB4)
+
+
+
+
+---
+
+> **Nota:**  
+> - Los precios y requisitos pueden variar según el país y la institución.
+> - Siempre descarga desde la web oficial de Adobe para evitar software no autorizado.
+
+
+
+### Requisitos del sistema para instalar Photoshop
+
+Antes de instalar Photoshop, es fundamental verificar que tu equipo cumpla con los [requisitos del sistema oficiales](https://helpx.adobe.com/mx/photoshop/system-requirements.html). Estos requisitos pueden variar según la versión, pero generalmente incluyen:
+
+- **Sistema operativo compatible** (Windows 10/11 de 64 bits o macOS reciente).
+- **Procesador** moderno (Intel, AMD o Apple Silicon).
+- **Memoria RAM** recomendada (mínimo 8 GB, idealmente 16 GB o más).
+- **Espacio en disco** suficiente (al menos 4 GB para la instalación, más espacio adicional para archivos temporales).
+- **Tarjeta gráfica** compatible con DirectX 12 o Metal, y al menos 1.5 GB de VRAM.
+- **Conexión a Internet** para la activación y actualizaciones.
+
+Consulta siempre la página oficial de Adobe para obtener los detalles más actualizados y asegurarte de que tu equipo pueda ejecutar Photoshop de manera óptima.
+
+
+---
+
+##### Opción 3: Photoshop Web (Versión en Línea)
+
+1. **Accede a Photoshop desde tu navegador**  
+   - Ingresa a la página oficial: [Photoshop Web](https://photoshop.adobe.com/)  
+   - Inicia sesión con tu cuenta de Adobe (puedes crear una gratuita si no tienes una).
+   - No requiere instalación ni descarga.
+
+2. **Limitaciones**  
+   - La versión web ofrece solo funciones básicas de edición.
+   - No incluye todas las herramientas avanzadas de la versión de escritorio.
+   - Ideal para ediciones rápidas o trabajos sencillos desde cualquier dispositivo.
+
+3. **Recomendación**  
+   - Utiliza Photoshop Web si necesitas hacer ajustes simples o no puedes instalar el programa completo en tu equipo.
+
+---
+
+
 # <span style="color: rgb(241, 47, 62)">Los diferentes tipos de imágenes:</span>
 
 Un ejemplo de una imágen de mapa de bits es una fotografía, y un ejemplo de una imágen vectoria sería un dibujo. En GIMP, solo podemos trabajar con imágenes en mapa de bits.
@@ -152,7 +242,107 @@ Recuerda, aunque los píxeles tienen sus limitaciones, las posibilidades creativ
 **¿Listo para transformar tus mapas de bits sin perder calidad?** 🚀 ¡Es hora de poner en práctica todo lo aprendido y llevar tus proyectos al siguiente nivel!  
 
 
+# Modos de Color en Photoshop: RGB, CMYK, Escala de Grises y LAB
 
+Photoshop ofrece varios modos de color que se adaptan a diferentes necesidades y entornos. Cada uno tiene características específicas que lo hacen ideal para ciertos tipos de proyectos. A continuación, exploraremos los modos de color más comunes, sus diferencias y cómo utilizarlos.
+
+---
+
+## **1. RGB (Rojo, Verde, Azul)**  
+### ¿Qué es?  
+El modo RGB utiliza los colores primarios de la luz (rojo, verde y azul) para crear una amplia gama de colores. Es un modelo **aditivo**, lo que significa que los colores se forman al sumar luz.
+
+### ¿Dónde se usa?  
+- **Pantallas digitales:** Diseños web, redes sociales, aplicaciones móviles, videos y cualquier contenido que se visualice en dispositivos electrónicos.
+
+### Ventajas:  
+- Amplia gama de colores brillantes.  
+- Ideal para proyectos digitales.  
+
+### ¿Cómo usarlo en Photoshop?  
+1. Ve a **Imagen > Modo > Color RGB**.  
+2. Trabaja con colores vivos y utiliza herramientas como el **Selector de Color** para obtener tonos precisos.  
+3. Exporta en formatos como PNG o JPEG para uso digital.
+
+---
+
+## **2. CMYK (Cian, Magenta, Amarillo, Negro)**  
+### ¿Qué es?  
+El modo CMYK es un modelo **sustractivo** que utiliza tintas para crear colores al restar luz reflejada en el papel. Es el estándar para impresión.
+
+### ¿Dónde se usa?  
+- **Impresión:** Revistas, carteles, folletos, empaques y cualquier material físico.
+
+### Ventajas:  
+- Compatible con procesos de impresión.  
+- Permite obtener colores más realistas en papel.  
+
+### ¿Cómo usarlo en Photoshop?  
+1. Cambia a **CMYK Color** desde **Imagen > Modo**.  
+2. Usa **Vista > Prueba de color** para previsualizar cómo se verá tu diseño al imprimirse.  
+3. Consulta con la imprenta para asegurarte de que el perfil de color sea compatible.
+
+---
+
+## **3. Escala de Grises**  
+### ¿Qué es?  
+En este modo, los colores se representan en tonos de gris, basados en la intensidad de luz de cada píxel.
+
+### ¿Dónde se usa?  
+- **Fotografía artística:** Proyectos en blanco y negro.  
+- **Impresión monocromática:** Documentos o gráficos simples.  
+
+### Ventajas:  
+- Resalta el contraste y la textura.  
+- Simplifica la composición visual.  
+
+### ¿Cómo usarlo en Photoshop?  
+1. Cambia el modo a **Escala de Grises** desde **Imagen > Modo**.  
+2. Experimenta con ajustes como **Brillo/Contraste** para mejorar la calidad visual.  
+3. Exporta en formatos como TIFF o JPEG para impresión o uso digital.
+
+---
+
+## **4. LAB (Luminosidad, A y B)**  
+### ¿Qué es?  
+El modelo LAB organiza los colores basándose en la percepción humana:  
+- **L:** Luminosidad (de negro a blanco).  
+- **A:** Colores entre verde y magenta.  
+- **B:** Colores entre azul y amarillo.
+
+### ¿Dónde se usa?  
+- **Corrección de color avanzada:** Ajustes precisos de tonalidad y brillo.  
+- **Restauración de fotografías:** Proyectos que requieren transiciones suaves y gradientes.  
+
+### Ventajas:  
+- Amplia gama de colores, incluso más que RGB y CMYK.  
+- Excelente para ajustes detallados.  
+
+### ¿Cómo usarlo en Photoshop?  
+1. Cambia a **LAB Color** desde **Imagen > Modo**.  
+2. Trabaja en los canales individuales (**L**, **A**, y **B**) para ajustes específicos de color.  
+3. Convierte a RGB o CMYK antes de exportar según el destino del proyecto.
+
+---
+
+## **Diferencias Clave entre los Modos de Color**  
+
+| **Modo**       | **Uso Principal**       | **Ventajas**                          | **Limitaciones**                     |
+|-----------------|-------------------------|---------------------------------------|---------------------------------------|
+| **RGB**         | Pantallas digitales     | Amplia gama de colores brillantes     | No apto para impresión directa.      |
+| **CMYK**        | Impresión               | Colores realistas en papel            | Gama de colores más limitada.        |
+| **Escala de Grises** | Blanco y negro       | Resalta contraste y textura           | Sin colores, solo tonos de gris.     |
+| **LAB**         | Corrección avanzada     | Amplia gama de colores y precisión    | No es compatible directamente con impresión o web. |
+
+---
+
+## **Consejos para Elegir el Modo Correcto**  
+1. **Proyectos digitales:** Usa RGB para aprovechar la gama de colores brillantes.  
+2. **Impresión:** Trabaja en CMYK desde el inicio para evitar discrepancias de color.  
+3. **Fotografía en blanco y negro:** Usa Escala de Grises para resaltar detalles y contraste.  
+4. **Edición avanzada:** Usa LAB para ajustes precisos y luego convierte al modo final según el destino del proyecto.
+
+Conocer y dominar los modos de color en Photoshop te permitirá optimizar tus proyectos y garantizar resultados profesionales en cualquier entorno. 🎨
 
 
 # <span style="color: rgb(241, 47, 62)">Configuración nuevo proyecto en photoshop</span>
