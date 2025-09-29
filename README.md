@@ -1,6 +1,10 @@
-# Adobe Photoshop
+# Adobe Photoshop 
 
-## La herramienta que transforma ideas en arte 🎨
+![logo](./img/logo_photoshop.png)
+
+## La herramienta que transforma ideas en arte 🎨 
+
+
 
 Cuando hablamos de edición de imágenes y creación de gráficos, es inevitable pensar en **Adobe Photoshop**, la herramienta que ha revolucionado la manera en que interactuamos con el diseño digital. Con más de tres décadas en el mercado, Photoshop ha logrado posicionarse como el estándar en la industria, atrayendo tanto a principiantes curiosos como a profesionales exigentes. Pero, ¿qué hace que este software sea tan especial? ¡Acompáñanos a descubrirlo!
 
@@ -10,6 +14,7 @@ Cuando hablamos de edición de imágenes y creación de gráficos, es inevitable
 
 Photoshop nació en 1988 como una sencilla herramienta de manipulación de imágenes, pero su evolución ha sido impresionante. Hoy en día, no solo se utiliza para retocar fotografías, sino que también es una plataforma integral para la creación artística, diseño web, ilustración, animación, y hasta modelado 3D. Desde la manipulación de color más básica hasta composiciones surrealistas que desafían la realidad, **Photoshop te da el control total sobre cada píxel de tu imagen.**
 
+![primera version de photoshop en los 80's](https://www.experimenta.es/wp-content/uploads/2018/07/thomas-knoll-old-800x1067.jpg)
 
 
 ### Innovación constante 💡
@@ -26,18 +31,28 @@ Uno de los secretos detrás del éxito de Photoshop es su **capacidad para adapt
 
 Photoshop es solo una pieza del enorme ecosistema de Adobe. Herramientas como Illustrator, After Effects y Lightroom complementan perfectamente sus capacidades, convirtiendo a la suite de Adobe en un paraíso para creadores. Además, su compatibilidad con múltiples formatos asegura que tus proyectos puedan ser utilizados en otras plataformas.
 
+![artistas digitales](https://www.21-draw.com/wp-content/uploads/2023/01/procreate-1024x576.png)
 
 ### ¿Alternativas? Claro, pero… 👀
 
 Aunque Adobe Photoshop domina el mercado, existen alternativas interesantes para quienes buscan opciones más económicas o con enfoques diferentes. Aquí tienes algunas:
 
-- **Affinity Photo:** Una herramienta potente y con un precio único (sin suscripción). Ideal para profesionales y aficionados avanzados. [Conócela aquí](https://affinity.serif.com/en-gb/photo/).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/1200px-Affinity_Photo_V2_icon.svg.png" width="50">
+
+- **Affinity Photo:** Una herramienta potente y con un precio único (sin suscripción). Ideal para profesionales y aficionados avanzados. [Conócela aquí](https://affinity.serif.com/en-gb/photo/). 
+
+<img src="https://blog.udemy.com/wp-content/uploads/2013/06/500px-The_GIMP_icon_-_gnome.png" width="60">
+
 - **GIMP:** Software de código abierto completamente gratuito. Si bien no cuenta con la misma sofisticación de Photoshop, es una excelente opción para quienes buscan iniciarse. [Descárgalo aquí](https://www.gimp.org/).
+
+
 
 Por supuesto, si quieres experimentar todo el poder y la versatilidad de Photoshop, puedes explorar su versión oficial en [Adobe](https://www.adobe.com/mx/products/photoshop.html).
 
 
 ### Más que un software, un medio de expresión ✨
+
+![medio de expresion](https://spacioss.com.mx/wp-content/uploads/2021/09/freedom-expression.jpg)
 
 Adobe Photoshop no es solo una herramienta; es un **lienzo infinito** para quienes desean plasmar ideas, romper barreras y explorar su creatividad. Desde editar una simple fotografía hasta crear obras maestras digitales, Photoshop ofrece posibilidades tan amplias como tu imaginación. 
 
@@ -47,6 +62,8 @@ Entonces, ¿estás listo para explorar el mundo de Photoshop y descubrir lo que 
 
 
 ### Guia de instalacion de photoshop
+
+![programa photoshop](https://macrosoft.store/1591-large_default/adobe-photoshop-2025.jpg)
 
 ##### Opción 1: Licencia Regular (Precio Completo)
 
@@ -65,6 +82,8 @@ Entonces, ¿estás listo para explorar el mundo de Photoshop y descubrir lo que 
 3. **Actualiza y comienza a usar Photoshop**  
    - Abre la aplicación Creative Cloud para verificar actualizaciones.
    - Inicia Photoshop y comienza a crear.
+
+![precios photoshop](https://i.blogs.es/2e8132/planes_creative_cloud/650_1200.jpg)
 
 ---
 
@@ -119,6 +138,8 @@ Consulta siempre la página oficial de Adobe para obtener los detalles más actu
 
 ##### Opción 3: Photoshop Web (Versión en Línea)
 
+![photoshop web](https://i.blogs.es/cb6f42/photoshop-web/650_1200.jpeg)
+
 1. **Accede a Photoshop desde tu navegador**  
    - Ingresa a la página oficial: [Photoshop Web](https://photoshop.adobe.com/)  
    - Inicia sesión con tu cuenta de Adobe (puedes crear una gratuita si no tienes una).
@@ -172,6 +193,8 @@ En un mapa de bits el contenido se representa mediante pequeños puntos rectangu
 
 # Imágenes Vectoriales
 
+![vectoriales](https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Schaubilder/imagen-vectorial-01.png)
+
 Las imágenes vectoriales se componen de líneas y curvas definidas matemáticamente.
 Una imagen vectorial es una imagen digital formada por objetos geométricos independientes (segmentos, polígonos, arcos, etc.), cada uno de ellos definido por distintos atributos matemáticos de forma, de posición, de color, etc. Por ejemplo, un círculo de color rojo quedaría definido por la posición de su centro, su radio, el grosor de línea y su color.
 
@@ -194,6 +217,7 @@ Los píxeles, la unidad básica de las imágenes raster, tienen un tamaño fijo.
 - **Al agrandar el tamaño:**  
   Aquí radica el mayor desafío. Como no hay suficientes píxeles para llenar el espacio adicional, Photoshop genera nuevos píxeles basados en la información existente. Sin embargo, estos píxeles **"inventados"** no siempre son precisos, lo que puede resultar en bordes borrosos o artefactos indeseados.  
 
+![redimencionar pixeles](https://helpx-prod.scene7.com/is/image/HelpxProd/cr_resolution-6?$png$&jpegSize=100&wid=588)
 ---
 
 #### **¿Por qué las imágenes se pixelean al agrandarlas?** 🤔🖌️  
@@ -205,6 +229,8 @@ Cuando haces una imagen más grande, los algoritmos de Photoshop, como el **inte
 ---
 
 #### **¿Cómo solucionar la pérdida de calidad al redimensionar en Photoshop?** 🛠️✨  
+
+![redimencionar en photoshop](https://helpx-prod.scene7.com/is/image/HelpxProdLoc/image-size-option-ps?$pjpeg$&jpegSize=100&wid=600)
 
 Aunque no podemos cambiar la naturaleza de los píxeles, hay varias estrategias que pueden ayudarte a minimizar los efectos negativos al cambiar el tamaño de una imagen:  
 
@@ -224,6 +250,7 @@ Aunque no podemos cambiar la naturaleza de los píxeles, hay varias estrategias 
 4. **Aplica un toque final de nitidez:**  
    - Después de redimensionar, ve a **Filtro > Enfocar > Enfoque suavizado** para recuperar detalles y contrarrestar la pérdida de nitidez.  
 
+
 ---
 
 #### **Tips extra para redimensionar como un profesional** 🚀  
@@ -239,6 +266,8 @@ Redimensionar mapas de bits es un arte que combina conocimiento técnico y creat
 
 Recuerda, aunque los píxeles tienen sus limitaciones, las posibilidades creativas de Photoshop no las tienen. Con práctica y las estrategias adecuadas, podrás superar cualquier desafío relacionado con el tamaño de tus imágenes.  
 
+![](https://www.solvetic.com/uploads/monthly_08_2022/tutorials-9832-0-19679900-1659699256.jpg)
+
 **¿Listo para transformar tus mapas de bits sin perder calidad?** 🚀 ¡Es hora de poner en práctica todo lo aprendido y llevar tus proyectos al siguiente nivel!  
 
 
@@ -246,9 +275,14 @@ Recuerda, aunque los píxeles tienen sus limitaciones, las posibilidades creativ
 
 Photoshop ofrece varios modos de color que se adaptan a diferentes necesidades y entornos. Cada uno tiene características específicas que lo hacen ideal para ciertos tipos de proyectos. A continuación, exploraremos los modos de color más comunes, sus diferencias y cómo utilizarlos.
 
+![modos de color](https://helpx-prod.scene7.com/is/image/HelpxProdLoc/color-mode_1046x620-5?$pjpeg$&jpegSize=200&wid=1046)
+
 ---
 
 ## **1. RGB (Rojo, Verde, Azul)**  
+
+![RGB](https://arquimedes.matem.unam.mx/mati/actividades/actividad_modelo_de_color_RGB/img/RGB.png)
+
 ### ¿Qué es?  
 El modo RGB utiliza los colores primarios de la luz (rojo, verde y azul) para crear una amplia gama de colores. Es un modelo **aditivo**, lo que significa que los colores se forman al sumar luz.
 
@@ -267,6 +301,9 @@ El modo RGB utiliza los colores primarios de la luz (rojo, verde y azul) para cr
 ---
 
 ## **2. CMYK (Cian, Magenta, Amarillo, Negro)**  
+
+![CMYK](https://heyjaime.com/wp-content/uploads/2022/10/cmyk-colores.png)
+
 ### ¿Qué es?  
 El modo CMYK es un modelo **sustractivo** que utiliza tintas para crear colores al restar luz reflejada en el papel. Es el estándar para impresión.
 
@@ -285,6 +322,9 @@ El modo CMYK es un modelo **sustractivo** que utiliza tintas para crear colores 
 ---
 
 ## **3. Escala de Grises**  
+
+![escala de grises](https://proedu.com/cdn/shop/articles/What-Is-Grayscale-Photshop-Skills-blog.jpg?v=1702337949&width=1500)
+
 ### ¿Qué es?  
 En este modo, los colores se representan en tonos de gris, basados en la intensidad de luz de cada píxel.
 
@@ -304,6 +344,9 @@ En este modo, los colores se representan en tonos de gris, basados en la intensi
 ---
 
 ## **4. LAB (Luminosidad, A y B)**  
+
+![LAB](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVwIlW7Pqf0zCXEqc2SWgie1JUdb4Bh6200JbewPANyd-XA5IffyOOxr3wfNekU1xPgzvs4n4Bt2qgb1kljtvGKVXW7dwZZrPxEi5ymd13SwdmsX01PJ58RBE-FrUTafK7L-AENIKzRv4/s1600/Basic+Gamut+graphic+Lab.jpg)
+
 ### ¿Qué es?  
 El modelo LAB organiza los colores basándose en la percepción humana:  
 - **L:** Luminosidad (de negro a blanco).  
@@ -430,22 +473,34 @@ En el panel Archivo encontraremos funciones referentes a nuestro documento, como
 
 Agrupa las funciones para editar capas o objetos de nuestro documento. Desde esta ventana podemos entre otras cosas: copiar, cortar, pegar, deshacer y escalar.
 
+![menu edicion](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr-slwQZzXlc9ZwjmvJVNBPX8cnkYOjVCdLFhPpe_441E5K4eKCD7quj7gWZYrs57Kt9sI09XNdHf_l23AA6K9sTM6XUYgFHqbjcpuhLzCBZByyJr4glZPl927T1nyvavZUPgRk9um3a8/s1600/Barra+de+herramientas+Photoshop_110118.jpg)
+
 # Panel Capa:
 Son las funciones para creación y manipulación de capas con opciones como: nuevo, duplicar, borrar, agrupar, organizar, etc.
 
-**Panel Selección:**
+![menu capa](https://media.gcflearnfree.org/content/5e7513eda6b2111b54a98308_03_20_2020/Captura%20de%20Pantalla%202020-03-20%20a%20la(s)%203.07.11%20p.%C2%A0m..png)
+
+# Panel Selección:
 
 Aquí encontramos las funciones para seleccionar todo en una capa, deseleccionar, crear máscaras, etc.
 
+![menu seleccion](http://unidadvirtual.com/imagen/10000000/manuales/diseno-grafico/photoshop/photoshop-menu-seleccion-gama-de-colores.jpg)
+
 # Panel Filtro:
+
 En este panel están todos los filtros que Photoshop puede aplicar. Un filtro es una función que realiza una serie de acciones sobre el documento para añadirle un efecto como que una foto se vea como si estuviese pintada a mano. Existe una gran cantidad de filtros con los que se puede ir jugando.
 
 El panel filtros y el resto de paneles que no hemos explicado, no se verán en este tutorial.
 
+![menu filtro](https://www.aulaclic.es/photoshop-cc/graficos/menufiltro.png)
+
 # Panel Ventana:
+
 Este panel es muy importante y a veces poco conocido. Desde aquí abriremos otras ventanas que tienen su propio panel de control desde donde poder trabajar más opciones de una misma herramienta.
 
 En ocasiones, podemos querer cerrar algunas de las ventanas o bien, la habremos cerrado sin querer, en ese caso acudiremos al panel Ventana para volver a abrir aquellas que necesitemos o hubiésemos cerrado accidentalmente.
+
+![menu ventana](https://i.ytimg.com/vi/AwVJbr66Zl0/maxresdefault.jpg)
 
 # Las herramientas del Photoshop
 En cualquier oficio es indispensable disponer de las herramientas adecuadas para su desarrollo sin embargo, Photoshop no es cualquier oficio y dispone de una gran cantidad de ellas para realizar una gran cantidad de cosas.
@@ -457,29 +512,45 @@ Como en todo oficio comenzaremos hablando de las herramientas elementales para i
 ![](./img/herramientas-photoshop-008.png)
 
 # Herramienta Mover:
+
 Esta herramienta es la que usaremos para mover cualquier cosa mientras estamos trabajando.
 
+![mover](https://www.dzoom.org.es/dzdn/img/0211/herramientaMover.jpg)
+
 # Selección de marcos:
+
 Disponemos de distintas formas geométricas con las que realizaremos la selección, como un rectángulo o una elipse. Si no elegimos ninguna utilizará la forma rectangular para realizar la selección.
 
+![seleccion marco](https://carontestudio.com/blog/wp-content/uploads/2020/07/herramienta-marco-photoshop.png)
+
 # Cuentagotas:
+
 Esta herramienta nos permite seleccionar un color que haya en la imagen.
 
+![cuentagotas](https://desarrolloweb.com/articulos/images/photoshop/herramientas-cuentagotas.gif)
+
 # Pincel básico:
+
 Como la selección de marcos también tiene varias opciones para elegir, en esta entrega utilizaremos el pincel pero la explicación sirve también para el lápiz.
+
+![pincel basico](https://www.dzoom.org.es/dzdn/img/0211/pincel.jpg)
 
 Cuando seleccionamos una herramienta se muestralas opciones que tiene. La herramienta pincel simula un pincel real y sirve para hacer trazos. Podemos seleccionar el grosor y la intensidad, es decir más o menos suavidad a la hora de pintar.
 
 ![](./img/pinceles-grueso-dureza-fino-045.png)
 
 # Bote de pintura:
+
 Esta herramienta cambia el color de una zona. Las zonas se forman por colores, así si un borde es blanco, todo el borde será una zona blanca.
+
+![bote de pintura](https://www.softzone.es/app/uploads-softzone.es/2017/04/botephotoshop.jpg)
 
 ![](./img/aplicar-bote-capa-color-044.png)
 
 # Texto:
 Esta herramienta crea una nueva capa de texto directamente en nuestro documento.
 
+![texto](https://fotografiaprincipiantes.wordpress.com/wp-content/uploads/2015/08/image_thumb31.png?w=608&h=258)
 
 # <span style="color: rgb(241, 47, 62)">Administrador de archivos</span>
 
