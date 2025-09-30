@@ -665,6 +665,7 @@ Un documento cerrado y listo es lo que se llama Arte final. Para modificaciones 
 
 Photoshop genera diferentes tipos de capas de manera predeterminada; al crear una capa se maneja como mapa de bits pero al momento de utilizar texto, o bien colocar una imagen, se crea su **Tipo de capa.**
 
+![tipos de capas](https://www.dzoom.org.es/wp-content/uploads/2020/05/grupo-capas.jpg)
 
 * **Fondo:** Se genera cuando abre una imagen, o bien se crea un documento nuevo, y se está trabajando directamente en ella; cabe senalar que, mientras sea un fondo, se mantendrán bloqueadas las propiedades que tenga, como la opacidad, eI relleno, etcétera.  
 Para desbloquear Ia imagen, basta con dar doble clic sobre ella y entonces
@@ -678,7 +679,9 @@ se convierte en "capa cero".
 
 # Panel de capas
 
-El Panel de Capas permite controlar y gestionar todas las capas. El orden en el que aparecen las capas indica su orden real de apilamiento.La capa activa se visuahza en azul. La casilla situada más a la izquierda, que muestra un icono en forma de ojo, es la que controla la visibilidad. Haciendo cltc sobre eI ojo. la capa se oculta. y si estå ocuita, al hacer clic se visualiza. En la barra de abajo de la paleta Capas hay botones para:
+![panel capas](https://www.dzoom.org.es/wp-content/uploads/2020/05/capas-seleccionadas-photoshop.jpg)
+
+El Panel de Capas permite controlar y gestionar todas las capas. El orden en el que aparecen las capas indica su orden real de apilamiento. La capa activa se visuahza en azul. La casilla situada más a la izquierda, que muestra un icono en forma de ojo, es la que controla la visibilidad. Haciendo cltc sobre eI ojo. la capa se oculta. y si estå ocuita, al hacer clic se visualiza. En la barra de abajo de la paleta Capas hay botones para:
 
 * Ariadir estilo de capa
 * Ariadir máscara de capa
@@ -688,6 +691,7 @@ El Panel de Capas permite controlar y gestionar todas las capas. El orden en el 
 
 # Organizar capas
 
+![organizar capas](https://www.dzoom.org.es/wp-content/uploads/2020/05/capas-photoshop-734x669.jpg)
 Reordenar capas: Desde la paleta Capas se hace clic sobre la capa que se quiere desplazar y se arrastra hasta la nueva posición.
 
 Grupos de capas: Las imagenes complejas con mochas capas conviene organizarlas en grupos que reúnen capas en una carpeta. Para crear un grupo se puede usar el botón Crear grupo nuevo.
@@ -719,6 +723,8 @@ la tecla <Mayús> y haga clic en la última capa.
 
 Algunos comandos y herramientas, como los efectos de filtro y las herramientas de pintura, no estån disponibles para capas de texto. Para poder aplicar el comando o utilizar la herramienta, antes debe rasterizar el texto. Rasterizar convierte la capa de texto en una capa normal y hace que su contenido sea imposible de editar como texto. Si selecciona un comando o una herramienta que requiere una capa rasterizada, aparece un mensaje de advertencia. Algunos mensajes de aviso presentan un botón OK en el que puede hacer clic para rasterizar la capa.
 
+![rasterizar imagen](https://www.solvetic.com/uploads/monthly_06_2022/tutorials-9832-0-28487300-1656507945.png)
+
 También podra rasterizar los siguientes objetos:
 
 * Texto: Rasteriza el texto en una capa de texto. No rasteriza ningún Otro dato vectorial de la capa.
@@ -744,7 +750,11 @@ incluir la mascara vectorial.
 
 # **Modos de Fusión**
 
+![modo de fusion](https://i.ytimg.com/vi/JAWoMEx5DcQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtGF_MgE23AzUpz9boiV3wLapuOQ)
+
 Los **modos de fusión** en Photoshop son herramientas poderosas que permiten transformar nuestras imágenes mediante la interacción entre capas. Estos modos, disponibles en las opciones de capa y en ciertas herramientas, controlan cómo los píxeles de una capa interactúan con los de otra, afectando aspectos como el color, la luminosidad y la transparencia. Aunque inicialmente parecen complejos, con esta guía podrás comprenderlos y aplicarlos para lograr resultados sorprendentes.  
+
+
 
 ---
 
