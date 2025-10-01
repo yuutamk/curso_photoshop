@@ -930,7 +930,7 @@ Mis recomendaciones:
 
 ¿Alguna vez has deseado editar una imagen en Photoshop sin miedo a cometer errores irreversibles? Las **máscaras de capa** son tu mejor aliada. Esta poderosa herramienta permite ocultar, revelar o combinar elementos sin destruir tu trabajo original. En pocas palabras, las máscaras de capa son el pincel mágico que transforma cualquier proyecto en arte sin límites.  
 
-
+![mascara de capa](https://jacfoto.com/wp-content/uploads/2020/08/Landscape-Jacfoto-1024x576.jpg)
 
 ### **¿Qué es una máscara de capa?** 🎨  
 
